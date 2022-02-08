@@ -1,0 +1,24 @@
+.picture-description{
+	height: 340px;
+	width: 100%;
+	/*background-color: green;*/
+	display: flex;
+	padding-top: 15px;
+}
+.picture{
+	height: 300px;
+	width: 40%;
+	/*padding: 20px;*/
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/*background-color: yellow;*/
+	/*background: url('./karnali.jpg');*/
+}
+.des{
+	height: 300px;
+	width: 60%;
+	padding-top: 20px;
+	/*background-color: blueviolet;*/
+	color: #000000;
+}

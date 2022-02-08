@@ -1,0 +1,32 @@
+.footer{
+	height: 220px;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.7);
+	color: #ffffff;
+	/*padding: 10px;*/
+	/*text-align: center;*/
+}
+.otherFooterContent{
+	height: 180px;
+	width: 100%;
+	/*padding: 10px;*/
+	background-color: #333131;
+	display: flex;
+}
+.follow-us{
+	height: inherit;
+	width: 50%;
+	/*background-color: yellow;*/
+	color: #FFFFFF;
+}
+.profile{
+	height: inherit;
+	width: 50%;
+	/*background-color: pink;*/
+	color: #FFFFFF;
+}
+.copyrightSection{
+	padding: 10px;
+	/*background-color: green;*/
+	text-align: center;
+}
