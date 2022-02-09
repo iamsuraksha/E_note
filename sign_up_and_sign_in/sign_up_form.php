@@ -24,7 +24,7 @@
  
 			<input type="submit" name="signup" value="SIGN UP" />
 			<div>
-				<span style="text-transform: uppercase;">i already have an account.</span><span>Sign In</span>
+				<span style="text-transform: uppercase;">i already have an account.</span><span><a href="./sign_in_form.php">Sign In</a> </span>
 			</div>
 		</form>
 </body>
