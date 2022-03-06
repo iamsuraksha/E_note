@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div class="sign_up_form_div">
-		<form class="sign_up_form">
+		<form class="sign_up_form" action="database.php" method="post">
 			<h4>Create and account.</h4>
 			<label>Full Name</label>
 			<input required type="text" name="fname" placeholder="Enter your full name !!!" />
